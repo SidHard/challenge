@@ -7,9 +7,9 @@ Model Type: Classification
 We use InternVL-14B-224px instead of clip model.
 
 ## Setup up python env
-`conda create --name eval python=3.10`
-`conda activate eval`
-`pip install -r requirements.txt`
+- `conda create --name eval python=3.10`
+- `conda activate eval`
+- `pip install -r requirements.txt`
 
 ## Install anomalib
 `git clone https://github.com/openvinotoolkit/anomalib`
